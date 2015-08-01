@@ -2,7 +2,7 @@ baseurl = "http://marcore.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 copyright = "© 2015 Marco Re"
-
+theme= "greyshade"
 [author]
   name = "Marco Re"
   email= "mrc.re@tiscali.it"
