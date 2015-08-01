@@ -1,4 +1,4 @@
-baseurl = "http://marcore.github.io/"
+baseurl = "http://www.marcore.it/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 copyright = "© 2015 Marco Re"

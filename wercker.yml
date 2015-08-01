@@ -24,4 +24,4 @@ deploy:
         clean_removed_files: true
         branch: master
         repo: marcore/marcore.github.io
-        #gh_pages_domain: marcore.github.io
+        gh_pages_domain: www.marcore.it
