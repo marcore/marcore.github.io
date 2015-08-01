@@ -1,0 +1,13 @@
+baseurl = "http://marcore.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+copyright = "© 2015 Marco Re"
+
+[author]
+  name = "Marco Re"
+  email= "mrc.re@tiscali.it"
+
+[params]
+  github_user="marcore"
+  twitter_user="marcore78"
+  linkedin_user="marcore1"
