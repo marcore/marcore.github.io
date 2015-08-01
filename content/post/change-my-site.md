@@ -1,6 +1,6 @@
 +++
-date = "2015-08-01T12:57:14Z"
-draft = true
+date = "2015-08-01T14:58:18Z"
+draft = false
 title = "New site & new workflow!"
 +++
 
