@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on My New Hugo Site </title>
+      <title> on Marco Re </title>
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://www.marcore.it/</link>
     <language>en-us</language>
     <author>Marco Re</author>
     <copyright>© 2015 Marco Re</copyright>
-    <updated>Sat, 01 Aug 2015 14:58:18 UTC</updated>
+    <updated>Tue, 04 Aug 2015 14:58:18 UTC</updated>
     
     <item>
-      <title>New site &amp; new workflow!</title>
-      <link>http://www.marcore.it/post/change-my-site/</link>
-      <pubDate>Sat, 01 Aug 2015 14:58:18 UTC</pubDate>
+      <title>Coming soon!</title>
+      <link>http://www.marcore.it/post/coming-soon/</link>
+      <pubDate>Tue, 04 Aug 2015 14:58:18 UTC</pubDate>
       <author>Marco Re</author>
-      <guid>http://www.marcore.it/post/change-my-site/</guid>
+      <guid>http://www.marcore.it/post/coming-soon/</guid>
       <description>
 
-&lt;h2 id=&#34;a-github-pages-hosted-site-with-docker-and-hugo:2238a1361076f4f59e756c38e3fa7590&#34;&gt;A Github pages hosted site with Docker and Hugo&lt;/h2&gt;
+&lt;h2 id=&#34;under-construction:6bd89190bb19ecc5113fd6c7c5ca1919&#34;&gt;Under construction&lt;/h2&gt;
 
-&lt;h3 id=&#34;tldr:2238a1361076f4f59e756c38e3fa7590&#34;&gt;TLDR&lt;/h3&gt;
-
-&lt;p&gt;This is a blog hosted on &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; , generated
-with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; sites generator and with a local workflow based
-on [Docker}(&lt;a href=&#34;https://docker.io/&#34;&gt;https://docker.io/&lt;/a&gt;).
-Additional spices comes with &lt;a href=&#34;https://www.cloudflare.com&#34;&gt;CloudFare&lt;/a&gt;!
-Go ahead if you wish to know how this stuff goes together!&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;.need to write the rest!&lt;/p&gt;
+&lt;p&gt;Need to complete some posts!&lt;/p&gt;
 </description>
     </item>
     
